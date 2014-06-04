@@ -1,0 +1,51 @@
+CREATE TABLE `users` (
+  `userid` int(10) unsigned NOT NULL auto_increment,
+  `email` varchar(60) NOT NULL,
+  `status` tinyint(1) unsigned NOT NULL default '0',
+  `password` varchar(32) NOT NULL,
+  `envirn` varchar(30) NOT NULL,
+  `lasttime` timestamp NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP,
+  `firsttime` timestamp NOT NULL default '0000-00-00 00:00:00',
+  `times` int(10) unsigned NOT NULL default '1',
+  `numrated` smallint(6) unsigned NOT NULL default '0',
+  `lastjokeid` smallint(6) unsigned NOT NULL default '0',
+  `lastnumenabledjokes` smallint(6) unsigned NOT NULL,
+  `heardabout` tinytext,
+  `lastjokeratingid` smallint(6) unsigned NOT NULL default '0',
+  `usingjester4` tinyint(1) unsigned NOT NULL default '0',
+  `usingjester5` tinyint(1) unsigned NOT NULL default '0',
+  `ratedpredictjokes` tinyint(1) unsigned NOT NULL default '0',
+  `ratedpredictjokesandmore` tinyint(1) unsigned NOT NULL default '0',
+  PRIMARY KEY  (`userid`),
+  UNIQUE KEY `email` (`email`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=3034 ;
+
+To get to this:
+
+ALTER TABLE  `users` DROP  `alphaflag` ,
+DROP  `betaflag` ;
+
+ALTER TABLE  `users` ADD  `lastjokeratingid` SMALLINT( 6 ) UNSIGNED NOT NULL DEFAULT  '0',
+ADD  `usingjester4` TINYINT( 1 ) UNSIGNED NOT NULL DEFAULT  '0',
+ADD  `usingjester5` TINYINT( 1 ) UNSIGNED NOT NULL DEFAULT  '0';
+
+ALTER TABLE  `users` ADD  `ratedpredictjokes` TINYINT( 1 ) UNSIGNED NOT NULL DEFAULT  '0',
+ADD  `ratedpredictjokesandmore` TINYINT( 1 ) UNSIGNED NOT NULL DEFAULT  '0';
+
+---
+
+CREATE TABLE `ratings` (
+  `userid` int(10) unsigned NOT NULL,
+  `jokeid` smallint(6) unsigned NOT NULL,
+  `jokeratingid` smallint(6) unsigned NOT NULL,
+  `jokerating` double NOT NULL,
+  PRIMARY KEY  (`userid`,`jokeid`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+To get to this:
+
+ALTER TABLE  `ratings` CHANGE  `jokeid`  `jokeid` SMALLINT( 6 ) UNSIGNED NOT NULL
+
+ALTER TABLE  `ratings` ADD  `jokeratingid` SMALLINT( 6 ) UNSIGNED NOT NULL AFTER  `jokeid` ;
+
+ALTER TABLE  `ratings` CHANGE  `jokerating`  `jokerating` DOUBLE NOT NULL

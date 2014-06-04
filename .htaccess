@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^viewjokes$ user/viewjokes.php
+
+#Mobile redirect for Jester -- added by Jay Summer 2013
+RewriteCond %{REQUEST_URI} !^/mobile/.*$
+RewriteCond %{HTTP_USER_AGENT} "android|blackberry|ipad|iphone|ipod|iemobile|opera|mobile|palmos|webos|googlebot-mobile" [NC]
+RewriteRule ^(.*)$ /mobile/$1 [R=301,L]

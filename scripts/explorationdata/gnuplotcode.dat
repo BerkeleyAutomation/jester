@@ -1,0 +1,128 @@
+set arrow from -3.2025017841855, -23.873165752043 to -3.2025017841855, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, 0.75450570650875 to -3.2025017841855, 0.75450570650875 nohead lt -1 lw 1.2
+set arrow from -9.2788495383459, -23.873165752043 to -9.2788495383459, 0.75450570650875 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, -2.6441969118382 to -9.2788495383459, -2.6441969118382 nohead lt -1 lw 1.2
+set arrow from -13.424268361285, -23.873165752043 to -13.424268361285, -2.6441969118382 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, -5.0029580478271 to -13.424268361285, -5.0029580478271 nohead lt -1 lw 1.2
+set arrow from -13.424268361285, -5.7003383075148 to -9.2788495383459, -5.7003383075148 nohead lt -1 lw 1.2
+set arrow from -14.681529087506, -2.6441969118382 to -14.681529087506, 0.75450570650875 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, -0.63879288488833 to -14.681529087506, -0.63879288488833 nohead lt -1 lw 1.2
+set arrow from -14.681529087506, -0.77688900566986 to -9.2788495383459, -0.77688900566986 nohead lt -1 lw 1.2
+set arrow from -9.2788495383459, -2.8941017637225 to -3.2025017841855, -2.8941017637225 nohead lt -1 lw 1.2
+set arrow from -6.0522643175064, -23.873165752043 to -6.0522643175064, -2.8941017637225 nohead lt -1 lw 1.2
+set arrow from -9.2788495383459, -5.5723345989219 to -6.0522643175064, -5.5723345989219 nohead lt -1 lw 1.2
+set arrow from -6.0522643175064, -5.6027223716481 to -3.2025017841855, -5.6027223716481 nohead lt -1 lw 1.2
+set arrow from -5.940704040174, -2.8941017637225 to -5.940704040174, 0.75450570650875 nohead lt -1 lw 1.2
+set arrow from -9.2788495383459, -0.94817742871233 to -5.940704040174, -0.94817742871233 nohead lt -1 lw 1.2
+set arrow from -5.940704040174, -0.89757678318296 to -3.2025017841855, -0.89757678318296 nohead lt -1 lw 1.2
+set arrow from -9.1122355374916, 0.75450570650875 to -9.1122355374916, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, 3.7734060488115 to -9.1122355374916, 3.7734060488115 nohead lt -1 lw 1.2
+set arrow from -14.739422648901, 0.75450570650875 to -14.739422648901, 3.7734060488115 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, 1.9296837869626 to -14.739422648901, 1.9296837869626 nohead lt -1 lw 1.2
+set arrow from -14.739422648901, 2.1890172196206 to -9.1122355374916, 2.1890172196206 nohead lt -1 lw 1.2
+set arrow from -13.04314415759, 3.7734060488115 to -13.04314415759, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from -31.357804356407, 5.8793529635968 to -13.04314415759, 5.8793529635968 nohead lt -1 lw 1.2
+set arrow from -13.04314415759, 6.4258010409386 to -9.1122355374916, 6.4258010409386 nohead lt -1 lw 1.2
+set arrow from -9.1122355374916, 4.3864496409175 to -3.2025017841855, 4.3864496409175 nohead lt -1 lw 1.2
+set arrow from -5.9070911843349, 0.75450570650875 to -5.9070911843349, 4.3864496409175 nohead lt -1 lw 1.2
+set arrow from -9.1122355374916, 2.4353915470297 to -5.9070911843349, 2.4353915470297 nohead lt -1 lw 1.2
+set arrow from -5.9070911843349, 2.5021795714258 to -3.2025017841855, 2.5021795714258 nohead lt -1 lw 1.2
+set arrow from -5.8625265343923, 4.3864496409175 to -5.8625265343923, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from -9.1122355374916, 7.0297068356849 to -5.8625265343923, 7.0297068356849 nohead lt -1 lw 1.2
+set arrow from -5.8625265343923, 6.9718951751411 to -3.2025017841855, 6.9718951751411 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, 1.1842350657837 to 29.463490677961, 1.1842350657837 nohead lt -1 lw 1.2
+set arrow from 1.7902439443629, -23.873165752043 to 1.7902439443629, 1.1842350657837 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, -2.1590591831349 to 1.7902439443629, -2.1590591831349 nohead lt -1 lw 1.2
+set arrow from -0.84797282701186, -23.873165752043 to -0.84797282701186, -2.1590591831349 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, -4.8003433024029 to -0.84797282701186, -4.8003433024029 nohead lt -1 lw 1.2
+set arrow from -0.84797282701186, -4.62399699369 to 1.7902439443629, -4.62399699369 nohead lt -1 lw 1.2
+set arrow from -0.68730269737255, -2.1590591831349 to -0.68730269737255, 1.1842350657837 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, -0.39646361625901 to -0.68730269737255, -0.39646361625901 nohead lt -1 lw 1.2
+set arrow from -0.68730269737255, -0.36642916175006 to 1.7902439443629, -0.36642916175006 nohead lt -1 lw 1.2
+set arrow from 1.7902439443629, -1.9333570023462 to 29.463490677961, -1.9333570023462 nohead lt -1 lw 1.2
+set arrow from 5.3033857129079, -23.873165752043 to 5.3033857129079, -1.9333570023462 nohead lt -1 lw 1.2
+set arrow from 1.7902439443629, -4.5254122756752 to 5.3033857129079, -4.5254122756752 nohead lt -1 lw 1.2
+set arrow from 5.3033857129079, -4.405483599226 to 29.463490677961, -4.405483599226 nohead lt -1 lw 1.2
+set arrow from 5.5689417230623, -1.9333570023462 to 5.5689417230623, 1.1842350657837 nohead lt -1 lw 1.2
+set arrow from 1.7902439443629, -0.32029046773714 to 5.5689417230623, -0.32029046773714 nohead lt -1 lw 1.2
+set arrow from 5.5689417230623, -0.36930123741902 to 29.463490677961, -0.36930123741902 nohead lt -1 lw 1.2
+set arrow from 2.3260718075849, 1.1842350657837 to 2.3260718075849, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, 4.5392962587113 to 2.3260718075849, 4.5392962587113 nohead lt -1 lw 1.2
+set arrow from -0.49832731676742, 1.1842350657837 to -0.49832731676742, 4.5392962587113 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, 2.7343080603873 to -0.49832731676742, 2.7343080603873 nohead lt -1 lw 1.2
+set arrow from -0.49832731676742, 2.6813337848881 to 2.3260718075849, 2.6813337848881 nohead lt -1 lw 1.2
+set arrow from -0.51677981847382, 4.5392962587113 to -0.51677981847382, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from -3.2025017841855, 7.3408670820025 to -0.51677981847382, 7.3408670820025 nohead lt -1 lw 1.2
+set arrow from -0.51677981847382, 7.270376131355 to 2.3260718075849, 7.270376131355 nohead lt -1 lw 1.2
+set arrow from 2.3260718075849, 4.6448379318813 to 29.463490677961, 4.6448379318813 nohead lt -1 lw 1.2
+set arrow from 5.9489142130658, 1.1842350657837 to 5.9489142130658, 4.6448379318813 nohead lt -1 lw 1.2
+set arrow from 2.3260718075849, 2.7760947495951 to 5.9489142130658, 2.7760947495951 nohead lt -1 lw 1.2
+set arrow from 5.9489142130658, 2.8111708852915 to 29.463490677961, 2.8111708852915 nohead lt -1 lw 1.2
+set arrow from 6.3739711514413, 4.6448379318813 to 6.3739711514413, 24.129623784348 nohead lt -1 lw 1.2
+set arrow from 2.3260718075849, 7.4220048511831 to 6.3739711514413, 7.4220048511831 nohead lt -1 lw 1.2
+set arrow from 6.3739711514413, 7.2926002710651 to 29.463490677961, 7.2926002710651 nohead lt -1 lw 1.2
+set label "000000\n(euc%: 4.64%,\npea%: 2.92%)" at first -22.391036358846, first -14.438061899935 font "Courier New Bold, 8"
+set label "100110\n(euc%: 0.20%,\npea%: 0.75%)" at first 0.55147062349517, first -1.2627441724425 font "Courier New Bold, 8"
+set label "111110\n(euc%: 3.80%,\npea%: 2.78%)" at first 17.918730914701, first 5.9687191014732 font "Courier New Bold, 8"
+set label "001010\n(euc%: 0.74%,\npea%: 3.32%)" at first -4.6273830508459, first -14.737944061846 font "Courier New Bold, 8"
+set label "101100\n(euc%: 0.66%,\npea%: 1.19%)" at first 3.6795928337126, first -1.1268237350417 font "Courier New Bold, 8"
+set label "000001\n(euc%: 5.24%,\npea%: 1.66%)" at first -22.391036358846, first -3.8235774798327 font "Courier New Bold, 8"
+set label "111010\n(euc%: 3.64%,\npea%: 1.68%)" at first 17.706202445513, first 1.9977029755376 font "Courier New Bold, 8"
+set label "001101\n(euc%: 0.47%,\npea%: 0.27%)" at first -7.6097767892599, first -0.09683586110179 font "Courier New Bold, 8"
+set label "010101\n(euc%: 2.75%,\npea%: 2.09%)" at first -22.200474256999, first 15.004488373972 font "Courier New Bold, 8"
+set label "110000\n(euc%: 0.08%,\npea%: 0.19%)" at first -1.8504145504765, first 1.9592715630855 font "Courier New Bold, 8"
+set label "101000\n(euc%: 0.93%,\npea%: 3.78%)" at first 3.5468148286354, first -14.199289013859 font "Courier New Bold, 8"
+set label "111100\n(euc%: 1.48%,\npea%: 1.45%)" at first 4.3500214795131, first 6.0334213915322 font "Courier New Bold, 8"
+set label "001110\n(euc%: 0.16%,\npea%: 0.58%)" at first -4.5716029121797, first -1.8958392734527 font "Courier New Bold, 8"
+set label "101011\n(euc%: 2.74%,\npea%: 3.06%)" at first 17.383438195434, first -3.1694203007861 font "Courier New Bold, 8"
+set label "110010\n(euc%: 0.35%,\npea%: 0.39%)" at first 0.91387224540874, first 1.9327844253359 font "Courier New Bold, 8"
+set label "011011\n(euc%: 0.06%,\npea%: 0.36%)" at first -4.5547964842602, first 3.4443146061717 font "Courier New Bold, 8"
+set label "011010\n(euc%: 0.03%,\npea%: 0.16%)" at first -4.5547964842602, first 1.6283426389673 font "Courier New Bold, 8"
+set label "100100\n(euc%: 0.07%,\npea%: 0.55%)" at first -1.944902240779, first -1.277761399697 font "Courier New Bold, 8"
+set label "101101\n(euc%: 0.83%,\npea%: 0.63%)" at first 3.6795928337126, first 0.43197229902328 font "Courier New Bold, 8"
+set label "010011\n(euc%: 1.06%,\npea%: 0.61%)" at first -11.925829093196, first 2.9812116342161 font "Courier New Bold, 8"
+set label "101010\n(euc%: 2.53%,\npea%: 4.92%)" at first 17.383438195434, first -14.139324675634 font "Courier New Bold, 8"
+set label "001111\n(euc%: 0.10%,\npea%: 0.21%)" at first -4.5716029121797, first -0.071535538337105 font "Courier New Bold, 8"
+set label "111011\n(euc%: 3.48%,\npea%: 2.18%)" at first 17.706202445513, first 3.7280044085864 font "Courier New Bold, 8"
+set label "100011\n(euc%: 0.25%,\npea%: 1.35%)" at first 0.47113555867552, first -3.3915280884124 font "Courier New Bold, 8"
+set label "101111\n(euc%: 3.45%,\npea%: 1.75%)" at first 17.516216200512, first 0.40746691418234 font "Courier New Bold, 8"
+set label "110110\n(euc%: 0.60%,\npea%: 1.18%)" at first 0.90464599455554, first 5.9048361950332 font "Courier New Bold, 8"
+set label "111001\n(euc%: 1.28%,\npea%: 0.85%)" at first 4.1374930103254, first 3.7104663407382 font "Courier New Bold, 8"
+set label "001011\n(euc%: 0.27%,\npea%: 1.25%)" at first -4.6273830508459, first -4.2484120676853 font "Courier New Bold, 8"
+set label "111000\n(euc%: 1.02%,\npea%: 0.70%)" at first 4.1374930103254, first 1.9801649076894 font "Courier New Bold, 8"
+set label "011100\n(euc%: 0.28%,\npea%: 0.84%)" at first -7.4873810359419, first 5.7080782383012 font "Courier New Bold, 8"
+set label "010111\n(euc%: 1.06%,\npea%: 2.51%)" at first -11.077689847541, first 15.277712412643 font "Courier New Bold, 8"
+set label "110011\n(euc%: 0.52%,\npea%: 0.55%)" at first 0.91387224540874, first 3.6103150217997 font "Courier New Bold, 8"
+set label "011111\n(euc%: 0.59%,\npea%: 2.61%)" at first -4.5325141592889, first 15.550759479745 font "Courier New Bold, 8"
+set label "011001\n(euc%: 0.24%,\npea%: 0.44%)" at first -7.5096633609132, first 3.4109205939736 font "Courier New Bold, 8"
+set label "010100\n(euc%: 3.33%,\npea%: 1.17%)" at first -22.200474256999, first 4.8263795062041 font "Courier New Bold, 8"
+set label "111111\n(euc%: 4.21%,\npea%: 4.57%)" at first 17.918730914701, first 15.711112027707 font "Courier New Bold, 8"
+set label "011110\n(euc%: 0.15%,\npea%: 0.82%)" at first -4.5325141592889, first 5.6791724080293 font "Courier New Bold, 8"
+set label "100010\n(euc%: 0.50%,\npea%: 3.45%)" at first 0.47113555867552, first -14.248581372867 font "Courier New Bold, 8"
+set label "000010\n(euc%: 1.96%,\npea%: 3.13%)" at first -11.351558949815, first -14.786752029779 font "Courier New Bold, 8"
+set label "010010\n(euc%: 1.16%,\npea%: 0.48%)" at first -11.925829093196, first 1.4717614630647 font "Courier New Bold, 8"
+set label "110111\n(euc%: 1.22%,\npea%: 2.89%)" at first 0.90464599455554, first 15.699999957851 font "Courier New Bold, 8"
+set label "000011\n(euc%: 1.65%,\npea%: 1.33%)" at first -11.351558949815, first -4.1722676096765 font "Courier New Bold, 8"
+set label "010001\n(euc%: 4.98%,\npea%: 1.03%)" at first -23.048613502654, first 2.8515449178871 font "Courier New Bold, 8"
+set label "000110\n(euc%: 1.51%,\npea%: 0.57%)" at first -11.980189312926, first -1.710542958754 font "Courier New Bold, 8"
+set label "100101\n(euc%: 0.04%,\npea%: 0.18%)" at first -1.944902240779, first 0.39388572476234 font "Courier New Bold, 8"
+set label "001000\n(euc%: 1.36%,\npea%: 3.39%)" at first -7.6655569279262, first -14.722750175482 font "Courier New Bold, 8"
+set label "110100\n(euc%: 0.31%,\npea%: 0.99%)" at first -1.8596408013297, first 5.9400816703569 font "Courier New Bold, 8"
+set label "011000\n(euc%: 0.38%,\npea%: 0.22%)" at first -7.5096633609132, first 1.5949486267692 font "Courier New Bold, 8"
+set label "101001\n(euc%: 0.66%,\npea%: 1.86%)" at first 3.5468148286354, first -3.2293846390107 font "Courier New Bold, 8"
+set label "100000\n(euc%: 0.54%,\npea%: 3.47%)" at first -2.0252373055987, first -14.336754527223 font "Courier New Bold, 8"
+set label "011101\n(euc%: 0.61%,\npea%: 2.47%)" at first -7.4873810359419, first 15.579665310016 font "Courier New Bold, 8"
+set label "110001\n(euc%: 0.12%,\npea%: 0.51%)" at first -1.8504145504765, first 3.6368021595493 font "Courier New Bold, 8"
+set label "001100\n(euc%: 0.48%,\npea%: 0.60%)" at first -7.6097767892599, first -1.9211395962174 font "Courier New Bold, 8"
+set label "101110\n(euc%: 3.58%,\npea%: 2.81%)" at first 17.516216200512, first -1.1513291198826 font "Courier New Bold, 8"
+set label "010110\n(euc%: 0.90%,\npea%: 0.84%)" at first -11.077689847541, first 5.0996035448751 font "Courier New Bold, 8"
+set label "100001\n(euc%: 0.13%,\npea%: 1.15%)" at first -2.0252373055987, first -3.4797012427689 font "Courier New Bold, 8"
+set label "100111\n(euc%: 0.32%,\npea%: 0.27%)" at first 0.55147062349517, first 0.40890295201682 font "Courier New Bold, 8"
+set label "000111\n(euc%: 1.32%,\npea%: 0.42%)" at first -11.980189312926, first -0.011191649580555 font "Courier New Bold, 8"
+set label "010000\n(euc%: 7.37%,\npea%: 1.43%)" at first -23.048613502654, first 1.3420947467357 font "Courier New Bold, 8"
+set label "110101\n(euc%: 0.91%,\npea%: 2.94%)" at first -1.8596408013297, first 15.735245433175 font "Courier New Bold, 8"
+set label "000101\n(euc%: 6.45%,\npea%: 1.25%)" at first -23.019666721957, first 0.05785641081021 font "Courier New Bold, 8"
+set label "000100\n(euc%: 5.51%,\npea%: 1.41%)" at first -23.019666721957, first -1.6414948983633 font "Courier New Bold, 8"
+set label "111101\n(euc%: 2.07%,\npea%: 3.42%)" at first 4.3500214795131, first 15.775814317766 font "Courier New Bold, 8"
+set label "001001\n(euc%: 0.70%,\npea%: 1.21%)" at first -7.6655569279262, first -4.2332181813222 font "Courier New Bold, 8"
+plot "userplot.dat" with dots
