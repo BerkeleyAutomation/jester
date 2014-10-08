@@ -37,6 +37,7 @@ def split(data, ratio=0.8):
 def kmeans_clustering(data, gauge, nclusters=20, max_iter=50):
 	print 'Clustering with {0} clusters'.format(nclusters)
 	cluster_data = data[:, gauge] # Keep only the gauge set ratings
+	print 'Dimensions of cluster data {0}'.format(cluster_data.shape)
 	# Create a code book that will be used to classify data. Distortion is discarded
 	codebook, distortion = kmeans(cluster_data, nclusters, iter=max_iter)
 	clusters, distortion = vq(cluster_data, codebook) # Assigning clusters
@@ -71,9 +72,6 @@ raw_data = load_raw_data('Datasets/Dataset 1/joined_data.csv')
 data = drop_column(raw_data, 0)
 clean_data(data)
 train, test = split(data)
-clusters, codebook = kmeans_clustering(train, [1, 2, 3], nclusters=1)
-pred = predictions(train, clusters, max(clusters) + 1)
-print nmae(data, pred, clusters)
 
 
 
